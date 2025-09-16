@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Youssef%20Mostafa%20Elkade&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Youssef%20Elkade&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 </p>
 
 <h3 align="center">💻 Full Stack Developer | Desktop Application Developer</h3>
@@ -22,7 +22,7 @@
 ## 👨‍💻 About Me  
 <img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />  
 
-I’m **Youssef Mostafa Elkade**, a passionate Full Stack Developer and Desktop Application Developer.  
+I’m **Youssef Elkade**, a passionate Full Stack Developer and Desktop Application Developer.  
 I build efficient, modern, and responsive web and desktop apps. I enjoy crafting high-quality applications that solve real problems and deliver great user experiences.  
 
 ---
